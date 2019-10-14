@@ -5,3 +5,6 @@ public class SecondFile
      // Someone Else File.	
   }
 }
+
+// Just some code that wasn't there before
+// Assuming that I finished with the file.
